@@ -170,7 +170,7 @@ header {
     margin: 10px;
     width: 130px;
     height: 200px;
-    background: url(resource/card/background.png);
+    background: url(/resource/card/background-card.png);
     background-size: cover;
     box-shadow: inset 0 -5px 10px var(--black-color);
     overflow: hidden;
