@@ -15,7 +15,7 @@ a {
 }
 /* top */
 body {
-    background: url(/resource/background.gif);
+    background: url(resource/background.gif);
     background-attachment: fixed;
     background-size: cover;
 
